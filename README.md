@@ -1,4 +1,4 @@
-# 蝉语实习 / Cicada Internships
+# 蝉语实习生 / Cicada Internships
 
 [Cicada Project](https://github.com/cicada-lang) 是一个开源程序语言设计团队。
 
