@@ -1,8 +1,8 @@
 # 蝉语实习生 / Cicada Internships
 
-[Cicada Project](https://github.com/cicada-lang) 是一个开源程序语言设计团队。
+[蝉语](https://github.com/cicada-lang) 是一个开源程序语言设计团队。
 
-主要项目 [Cicada Language](https://github.com/cicada-lang/cicada)
+主要项目 [Cicada](https://github.com/cicada-lang/cicada)
 是一个 Dependently Typed 程序语言（类似 Coq、Agda、Idris 和 Lean），
 可以用来辅助证明数学定理，并却作为形式化的数学基础。
 
@@ -14,7 +14,7 @@
 
 工作内容：
 
-- 维护 [Cicada Language](https://github.com/cicada-lang/cicada) 的代码。
+- 维护 [Cicada](https://github.com/cicada-lang/cicada) 的代码。
   - 由 TypeScript 实现，OOP 编程风格。
 - 编写文档来介绍我们的语言，以普及 _机器辅助证明_ 与 _形式化数学基础_ 相关的知识。
   - 当前的文档在：https://cicada-lang.org/docs
