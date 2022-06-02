@@ -19,7 +19,7 @@
 - 编写文档来介绍我们的语言，以普及 _机器辅助证明_ 与 _形式化数学基础_ 相关的知识。
   - 当前的文档在：https://cicada-lang.org/docs
 - 探索类型系统的功能与实现方式。
-  - 例如 inductive datatype、递归函数、实现子类型关系等等。
+  - 例如 inductive datatype、递归函数、子类型关系等等。
   - 我们读类型论相关的书籍与论文，然后以研讨会和博客的形式分享。
   - 中文 Telegram 讨论群：https://t.me/CicadaLanguageCN
 
