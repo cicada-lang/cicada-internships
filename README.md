@@ -21,7 +21,6 @@
 - 探索类型系统的功能与实现方式。
   - 例如 Inductive datatype、递归函数、子类型关系等等。
   - 我们读类型论相关的书籍与论文，然后以研讨会和博客的形式分享。
-  - 中文 Telegram 讨论群：https://t.me/CicadaLanguageCN
 
 入职要求：
 
